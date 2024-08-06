@@ -1,0 +1,31 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (RogueSpace.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  2DTemplate_VS2022_SDL2.cpp
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(139,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(142,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(248,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(251,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(267,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(270,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(274,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(274,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(282,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(283,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(313,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(313,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(316,24): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(316,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(316,34): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(316,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(321,26): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(321,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(321,37): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(321,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(326,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(326,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(326,48): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(326,48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(331,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(331,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(331,42): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\source\repos\2DTemplate_VS2022_SDL2\RogueSpace\2DTemplate_VS2022_SDL2.cpp(331,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RogueSpace.vcxproj -> D:\source\repos\2DTemplate_VS2022_SDL2\x64\Debug\2DTemplate_VS2022_SDL2.exe
